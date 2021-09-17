@@ -11,4 +11,11 @@ Under the Image display the hex code like #348233 red
 
 Make an example and if its cool we do all
 
-Generate random images based on a color Hex code. 
+
+I have a program that will suit your demands.
+It is written in Java and is executable in Windows10, Mac, Linux, ...
+Examples are found at:  https://github.com/DeCocks/Generate-random-images-based-on-a-color-Hex-code
+Design of image can be changed. 
+Output of random images can be automated.
+
+Install Java to run jar file on your computer: https://www.java.com/en/download/
